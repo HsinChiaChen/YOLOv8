@@ -1,5 +1,4 @@
 # YOLOv8
-# [Cong-Thanh Vu](https://sites.google.com/view/vuthanhcdt/home) packages for Agribot
 These packages made by [HsinChiaChen]() from [Networked robotic systems laboratory](https://sites.google.com/site/yenchenliuncku). If you use any packages from this repository, please cite this repository and my name.
 
 ## Preparing a custom dataset for YOLOv8
